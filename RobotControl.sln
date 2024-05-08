@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotControl", "RobotControl\RobotControl.csproj", "{821600ED-CA5B-48D8-B981-1C51ACE2A271}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotControl.ClassLibrary", "RobotControl.ClassLibrary\RobotControl.ClassLibrary.csproj", "{3EA26E05-3D75-4F31-9CAA-6BCC919248E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821600ED-CA5B-48D8-B981-1C51ACE2A271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821600ED-CA5B-48D8-B981-1C51ACE2A271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821600ED-CA5B-48D8-B981-1C51ACE2A271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821600ED-CA5B-48D8-B981-1C51ACE2A271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA26E05-3D75-4F31-9CAA-6BCC919248E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA26E05-3D75-4F31-9CAA-6BCC919248E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA26E05-3D75-4F31-9CAA-6BCC919248E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA26E05-3D75-4F31-9CAA-6BCC919248E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D50377CA-4F9D-46CF-8D5A-65B0CDD331CF}
+	EndGlobalSection
+EndGlobal
